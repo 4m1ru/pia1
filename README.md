@@ -1,7 +1,7 @@
-# fun1
+# pia1
 
-1. git clone https://github.com/diverglovsky/fun1/
-2. cd fun1
-3. python fun1.py
+1. git clone https://github.com/diverglovsky/pia1/
+2. cd pia1
+3. python pia1.py
 
-cuman buat update an dari versi lama
+♥️
